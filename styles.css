@@ -39,6 +39,16 @@
   grid-template-rows: repeat(4, 17vw);
   grid-gap: 15px;
 }
+.about {
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+}
+/* .reviews {
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+} */
 body {
     margin: auto;
     background-color: #C4E7C0;
@@ -50,6 +60,10 @@ footer {
   background-color: #B6C7C1;
 }
 h1 {
+  display: flex;
+  justify-content: center;
+}
+h2 {
   display: flex;
   justify-content: center;
 }
