@@ -5,14 +5,10 @@
   justify-content: center;
 }
 .menu {
-  /* background-color: #c5c5c5; */
   display: flex;
   list-style-type: none;
-  margin: 30px;
-  padding-right: 15px;
-  padding-left: 15px;
   justify-content: center;
-  background-color: #B6C7C1;
+  margin:10px;
 
 }
 .content {
@@ -22,9 +18,9 @@
   font-size: 30px;
 }
 .houses {
+  display: flex;
   width: 100%;
   height: auto;
-  display: flex;
   justify-content: center;
   flex-wrap: wrap;
 }
